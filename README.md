@@ -1,9 +1,10 @@
 <p align="center">
-  JavaScript-StyleGuide
+   Hello there! This is my JavaScript-StyleGuide
 </p>
 
-# _JavaScript-StyleGuide_
-* Always use the same coding conventions for all your JavaScript projects.
+
+# _JavaScript-StyleGuide_ 
++ Always use the same coding conventions for all your JavaScript projects.
 
 
 <p align="center">
